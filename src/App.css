@@ -8,10 +8,10 @@
 }
 
 .App-header {
-  background-color: #222;
+  background-color: #;
   height: 150px;
   padding: 20px;
-  color: white;
+  color: #C81705;
 }
 
 .App-intro {
@@ -22,3 +22,13 @@
   from { transform: rotate(0deg); }
   to { transform: rotate(360deg); }
 }
+
+
+background: rgba(38,31,255,1);
+background: -moz-linear-gradient(top, rgba(38,31,255,1) 0%, rgba(5,13,255,1) 75%, rgba(64,61,255,1) 75%, rgba(0,0,250,1) 99%, rgba(0,0,250,1) 100%);
+background: -webkit-gradient(left top, left bottom, color-stop(0%, rgba(38,31,255,1)), color-stop(75%, rgba(5,13,255,1)), color-stop(75%, rgba(64,61,255,1)), color-stop(99%, rgba(0,0,250,1)), color-stop(100%, rgba(0,0,250,1)));
+background: -webkit-linear-gradient(top, rgba(38,31,255,1) 0%, rgba(5,13,255,1) 75%, rgba(64,61,255,1) 75%, rgba(0,0,250,1) 99%, rgba(0,0,250,1) 100%);
+background: -o-linear-gradient(top, rgba(38,31,255,1) 0%, rgba(5,13,255,1) 75%, rgba(64,61,255,1) 75%, rgba(0,0,250,1) 99%, rgba(0,0,250,1) 100%);
+background: -ms-linear-gradient(top, rgba(38,31,255,1) 0%, rgba(5,13,255,1) 75%, rgba(64,61,255,1) 75%, rgba(0,0,250,1) 99%, rgba(0,0,250,1) 100%);
+background: linear-gradient(to bottom, rgba(38,31,255,1) 0%, rgba(5,13,255,1) 75%, rgba(64,61,255,1) 75%, rgba(0,0,250,1) 99%, rgba(0,0,250,1) 100%);
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#261fff', endColorstr='#0000fa', GradientType=0 );
