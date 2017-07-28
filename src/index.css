@@ -12,7 +12,9 @@ body {
     background-size: 100%;
 }
 
-
+h2, p, a {
+  color: white;
+}
 /*https://68.media.tumblr.com/f4010cfb98342c6c2867c3ec672be5e7/tumblr_nupst4crK11txt22yo1_500.gif*/
 
 

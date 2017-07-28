@@ -12,10 +12,10 @@ class App extends Component {
           <h2 >Elizabeth Nicholson </h2>
         </div>
         <p className="App-intro">
-          Bio <br />
+          <a href=''>Bio</a> <br />
           <a href='https://docs.google.com/document/d/1crSJzrS53KLbrAqPUJ0AfgKzgMYdpvlLVBay55IoRCY/edit#heading=h.u3cvkoug617w'>Resume</a><br />
-          Projects<br/>
-          Poems
+          <a href=''>Projects</a><br/>
+          <a href=''>Poems</a>
         </p>
       </div>
     );
