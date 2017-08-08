@@ -18,6 +18,7 @@ class App extends Component {
           <a href='https://docs.google.com/document/d/1crSJzrS53KLbrAqPUJ0AfgKzgMYdpvlLVBay55IoRCY/edit#heading=h.u3cvkoug617w'>Resume</a><br />
 
           <a href=''>Poems</a>
+          <a href='https://docs.google.com/document/d/1crSJzrS53KLbrAqPUJ0AfgKzgMYdpvlLVBay55IoRCY/edit#heading=h.u3cvkoug617w'>Resume</a><br />
 
         </p>
       </div>
