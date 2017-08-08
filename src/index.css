@@ -7,9 +7,10 @@ body {
   	font-variant: normal;
   	font-weight: 10;
   	line-height: 26.4px;
-    background-image: url("http://orig10.deviantart.net/1dfa/f/2017/141/c/8/tumblr_nnmiy7czzc1tgc7zro1_500__1__by_carbonated_stardust-dba15ng.gif");
-    background-repeat: no-repeat;
-    background-size: 100%;
+    /*background-image: url("http://orig10.deviantart.net/1dfa/f/2017/141/c/8/tumblr_nnmiy7czzc1tgc7zro1_500__1__by_carbonated_stardust-dba15ng.gif");*/
+    /*background-repeat: no-repeat;*/
+    /*background-size: 100%;*/
+    background: rgba(0, 0, 0, 0) linear-gradient(160deg, rgb(255, 227, 234) 0%, rgb(166, 115, 255) 100%) repeat scroll 0% 0% / auto padding-box border-box
 }
 
 h2, p, a {
