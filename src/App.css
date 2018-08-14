@@ -223,7 +223,7 @@
 
 #tabs-bizarrocoder-tab {
   background-color: #FFE082;
-  color:  #3E2723;
+  color: #3E2723;
 }
 
 .giphy-tab-info {
@@ -254,7 +254,6 @@
 #tabs-giphy-tab-info {
   background-color: #80CBC4;
   color: #1A237E;
-
 }
 
 .tab-panel {
@@ -651,7 +650,6 @@
   #tabs-giphy-tab-info {
     background-color: #80CBC4;
     color: #1A237E;
-
   }
 
   .tab-panel {
@@ -774,5 +772,4 @@
     width: 175vw !important;
     margin-left: 23vw !important;
   }
-
 }

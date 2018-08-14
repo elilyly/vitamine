@@ -39,7 +39,7 @@ class Bio extends Component {
             <div className="bio-grid">
               <div className="bio-close" onClick={this.handleExpand}>x</div>
                 <h3 className="bio-text">
-                  Hey! I'm Liz, a front end developer with an apperciation for sleek and modern user experiences.
+                  Hey! I'm Liz, a front end developer with an appreciation for sleek and modern user experiences.
                   I want to bring people and cultures together by creating beautiful technology.
                 </h3>
             </div>
