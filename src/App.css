@@ -67,7 +67,7 @@
 
 .bio-grid {
   background-color: white;
-  width: 44%;
+  max-width: 25%;
   border-style: solid;
   border-width: 1px;
   height: 14vw;
@@ -84,6 +84,8 @@
   text-align: center;
   margin-left: 10px;
   margin-right: 15px;
+  font-size: 21px;
+  padding-top: 15px;
 }
 
 .about-link {
@@ -362,6 +364,13 @@
   vertical-align: top;
 }
 
+@media only screen and (min-width: 1700px) {
+  .bio-text {
+    text-align: center;
+    font-size: 25px;
+    padding-top: 25px !important;
+  }
+}
 
 @media only screen and (max-width: 600px) {
   .App {
@@ -427,11 +436,11 @@
   }
 
   .profile-img {
-      border-style: solid;
-      border-width: 2px;
-      max-width: 100%;
-      height: 60vw;
-      margin-left: 10%;
+    border-style: solid;
+    border-width: 2px;
+    max-width: 100%;
+    height: 60vw;
+    margin-left: 10%;
   }
 
   .bio {
@@ -441,7 +450,7 @@
 
   .bio-grid {
     background-color: white;
-    width: 46%;
+    max-width: 46%;
     border-style: solid;
     border-width: 2px;
     height: 60vw;
@@ -450,13 +459,14 @@
 
   .bio-close {
     text-align: right;
-    padding:10px;
+    padding: 10px;
     font-size: 30px;
   }
 
   .bio-text {
     text-align: center;
     font-size: 6vw;
+    padding-top: 0 !important;
   }
 
   .about-link {
