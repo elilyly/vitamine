@@ -407,7 +407,7 @@
     text-align: left;
   }
 
-  .test {
+  .skills-container {
     display: flex;
     flex-direction: column;
   }
