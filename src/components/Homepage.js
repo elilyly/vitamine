@@ -13,7 +13,7 @@ class Homepage extends Component {
   render() {
     return (
       <div className="homepage">
-        <div className= "test">
+        <div className= "skills-container">
           <img alt="rose" src={rose} className="img-rose"/>
           <Languages  />
           <img alt="gif" src={gifGrass} className="gif-grass" />
